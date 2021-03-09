@@ -1,0 +1,1076 @@
+
+{
+    "rows":[
+        {
+            "nameOfState": "Alabama",
+            "incomePerQuarter": [
+                71,
+                78,
+                39,
+                66
+            ],
+            "costPerQuarter": [
+                68,
+                52,
+                80,
+                96
+            ],
+            "resultPerQuarter": [
+                3,
+                26,
+                -41,
+                -30
+            ]
+        },
+        {
+            "nameOfState": "Alaska",
+            "incomePerQuarter": [
+                87,
+                44,
+                74,
+                41
+            ],
+            "costPerQuarter": [
+                29,
+                54,
+                73,
+                25
+            ],
+            "resultPerQuarter": [
+                58,
+                -10,
+                1,
+                16
+            ]
+        },
+        {
+            "nameOfState": "Arizona",
+            "incomePerQuarter": [
+                56,
+                12,
+                8,
+                25
+            ],
+            "costPerQuarter": [
+                69,
+                14,
+                53,
+                55
+            ],
+            "resultPerQuarter": [
+                -13,
+                -2,
+                -45,
+                -30
+            ]
+        },
+        {
+            "nameOfState": "Arkansas",
+            "incomePerQuarter": [
+                81,
+                50,
+                78,
+                94
+            ],
+            "costPerQuarter": [
+                36,
+                15,
+                14,
+                11
+            ],
+            "resultPerQuarter": [
+                45,
+                35,
+                64,
+                83
+            ]
+        },
+        {
+            "nameOfState": "California",
+            "incomePerQuarter": [
+                61,
+                80,
+                10,
+                49
+            ],
+            "costPerQuarter": [
+                100,
+                8,
+                52,
+                57
+            ],
+            "resultPerQuarter": [
+                -39,
+                72,
+                -42,
+                -8
+            ]
+        },
+        {
+            "nameOfState": "Colorado",
+            "incomePerQuarter": [
+                13,
+                48,
+                21,
+                36
+            ],
+            "costPerQuarter": [
+                98,
+                86,
+                8,
+                81
+            ],
+            "resultPerQuarter": [
+                -85,
+                -38,
+                13,
+                -45
+            ]
+        },
+        {
+            "nameOfState": "Connecticut",
+            "incomePerQuarter": [
+                6,
+                64,
+                44,
+                87
+            ],
+            "costPerQuarter": [
+                60,
+                13,
+                73,
+                2
+            ],
+            "resultPerQuarter": [
+                -54,
+                51,
+                -29,
+                85
+            ]
+        },
+        {
+            "nameOfState": "Delaware",
+            "incomePerQuarter": [
+                7,
+                27,
+                49,
+                78
+            ],
+            "costPerQuarter": [
+                19,
+                90,
+                100,
+                89
+            ],
+            "resultPerQuarter": [
+                -12,
+                -63,
+                -51,
+                -11
+            ]
+        },
+        {
+            "nameOfState": "District of Columbia",
+            "incomePerQuarter": [
+                18,
+                39,
+                27,
+                22
+            ],
+            "costPerQuarter": [
+                62,
+                97,
+                24,
+                2
+            ],
+            "resultPerQuarter": [
+                -44,
+                -58,
+                3,
+                20
+            ]
+        },
+        {
+            "nameOfState": "Florida",
+            "incomePerQuarter": [
+                51,
+                24,
+                90,
+                84
+            ],
+            "costPerQuarter": [
+                47,
+                40,
+                74,
+                83
+            ],
+            "resultPerQuarter": [
+                4,
+                -16,
+                16,
+                1
+            ]
+        },
+        {
+            "nameOfState": "Georgia",
+            "incomePerQuarter": [
+                36,
+                80,
+                39,
+                28
+            ],
+            "costPerQuarter": [
+                43,
+                25,
+                52,
+                92
+            ],
+            "resultPerQuarter": [
+                -7,
+                55,
+                -13,
+                -64
+            ]
+        },
+        {
+            "nameOfState": "Hawaii",
+            "incomePerQuarter": [
+                73,
+                34,
+                74,
+                51
+            ],
+            "costPerQuarter": [
+                1,
+                83,
+                49,
+                39
+            ],
+            "resultPerQuarter": [
+                72,
+                -49,
+                25,
+                12
+            ]
+        },
+        {
+            "nameOfState": "Idaho",
+            "incomePerQuarter": [
+                25,
+                43,
+                31,
+                67
+            ],
+            "costPerQuarter": [
+                30,
+                30,
+                75,
+                17
+            ],
+            "resultPerQuarter": [
+                -5,
+                13,
+                -44,
+                50
+            ]
+        },
+        {
+            "nameOfState": "Illinois",
+            "incomePerQuarter": [
+                56,
+                84,
+                98,
+                98
+            ],
+            "costPerQuarter": [
+                61,
+                12,
+                77,
+                1
+            ],
+            "resultPerQuarter": [
+                -5,
+                72,
+                21,
+                97
+            ]
+        },
+        {
+            "nameOfState": "Indiana",
+            "incomePerQuarter": [
+                52,
+                87,
+                64,
+                13
+            ],
+            "costPerQuarter": [
+                2,
+                47,
+                94,
+                73
+            ],
+            "resultPerQuarter": [
+                50,
+                40,
+                -30,
+                -60
+            ]
+        },
+        {
+            "nameOfState": "Iowa",
+            "incomePerQuarter": [
+                41,
+                45,
+                19,
+                30
+            ],
+            "costPerQuarter": [
+                17,
+                34,
+                45,
+                63
+            ],
+            "resultPerQuarter": [
+                24,
+                11,
+                -26,
+                -33
+            ]
+        },
+        {
+            "nameOfState": "Kansas",
+            "incomePerQuarter": [
+                52,
+                43,
+                65,
+                24
+            ],
+            "costPerQuarter": [
+                20,
+                42,
+                97,
+                56
+            ],
+            "resultPerQuarter": [
+                32,
+                1,
+                -32,
+                -32
+            ]
+        },
+        {
+            "nameOfState": "Kentucky",
+            "incomePerQuarter": [
+                85,
+                74,
+                98,
+                32
+            ],
+            "costPerQuarter": [
+                37,
+                38,
+                93,
+                51
+            ],
+            "resultPerQuarter": [
+                48,
+                36,
+                5,
+                -19
+            ]
+        },
+        {
+            "nameOfState": "Louisiana",
+            "incomePerQuarter": [
+                89,
+                18,
+                87,
+                63
+            ],
+            "costPerQuarter": [
+                19,
+                54,
+                35,
+                93
+            ],
+            "resultPerQuarter": [
+                70,
+                -36,
+                52,
+                -30
+            ]
+        },
+        {
+            "nameOfState": "Maine",
+            "incomePerQuarter": [
+                17,
+                68,
+                61,
+                48
+            ],
+            "costPerQuarter": [
+                44,
+                35,
+                42,
+                12
+            ],
+            "resultPerQuarter": [
+                -27,
+                33,
+                19,
+                36
+            ]
+        },
+        {
+            "nameOfState": "Maryland",
+            "incomePerQuarter": [
+                74,
+                12,
+                74,
+                44
+            ],
+            "costPerQuarter": [
+                65,
+                58,
+                22,
+                12
+            ],
+            "resultPerQuarter": [
+                9,
+                -46,
+                52,
+                32
+            ]
+        },
+        {
+            "nameOfState": "Massachusetts",
+            "incomePerQuarter": [
+                44,
+                35,
+                69,
+                24
+            ],
+            "costPerQuarter": [
+                26,
+                3,
+                69,
+                17
+            ],
+            "resultPerQuarter": [
+                18,
+                32,
+                0,
+                7
+            ]
+        },
+        {
+            "nameOfState": "Michigan",
+            "incomePerQuarter": [
+                99,
+                26,
+                13,
+                39
+            ],
+            "costPerQuarter": [
+                20,
+                37,
+                99,
+                29
+            ],
+            "resultPerQuarter": [
+                79,
+                -11,
+                -86,
+                10
+            ]
+        },
+        {
+            "nameOfState": "Minnesota",
+            "incomePerQuarter": [
+                34,
+                30,
+                16,
+                19
+            ],
+            "costPerQuarter": [
+                49,
+                43,
+                24,
+                21
+            ],
+            "resultPerQuarter": [
+                -15,
+                -13,
+                -8,
+                -2
+            ]
+        },
+        {
+            "nameOfState": "Mississippi",
+            "incomePerQuarter": [
+                38,
+                75,
+                31,
+                61
+            ],
+            "costPerQuarter": [
+                0,
+                68,
+                100,
+                11
+            ],
+            "resultPerQuarter": [
+                38,
+                7,
+                -69,
+                50
+            ]
+        },
+        {
+            "nameOfState": "Missouri",
+            "incomePerQuarter": [
+                37,
+                48,
+                2,
+                48
+            ],
+            "costPerQuarter": [
+                41,
+                64,
+                17,
+                80
+            ],
+            "resultPerQuarter": [
+                -4,
+                -16,
+                -15,
+                -32
+            ]
+        },
+        {
+            "nameOfState": "Montana",
+            "incomePerQuarter": [
+                48,
+                81,
+                38,
+                28
+            ],
+            "costPerQuarter": [
+                44,
+                33,
+                86,
+                74
+            ],
+            "resultPerQuarter": [
+                4,
+                48,
+                -48,
+                -46
+            ]
+        },
+        {
+            "nameOfState": "Nebraska",
+            "incomePerQuarter": [
+                98,
+                55,
+                82,
+                51
+            ],
+            "costPerQuarter": [
+                89,
+                54,
+                28,
+                61
+            ],
+            "resultPerQuarter": [
+                9,
+                1,
+                54,
+                -10
+            ]
+        },
+        {
+            "nameOfState": "Nevada",
+            "incomePerQuarter": [
+                66,
+                4,
+                57,
+                94
+            ],
+            "costPerQuarter": [
+                59,
+                39,
+                94,
+                22
+            ],
+            "resultPerQuarter": [
+                7,
+                -35,
+                -37,
+                72
+            ]
+        },
+        {
+            "nameOfState": "New Hampshire",
+            "incomePerQuarter": [
+                32,
+                21,
+                1,
+                82
+            ],
+            "costPerQuarter": [
+                88,
+                85,
+                65,
+                68
+            ],
+            "resultPerQuarter": [
+                -56,
+                -64,
+                -64,
+                14
+            ]
+        },
+        {
+            "nameOfState": "New Jersey",
+            "incomePerQuarter": [
+                31,
+                40,
+                24,
+                99
+            ],
+            "costPerQuarter": [
+                7,
+                45,
+                12,
+                83
+            ],
+            "resultPerQuarter": [
+                24,
+                -5,
+                12,
+                16
+            ]
+        },
+        {
+            "nameOfState": "New Mexico",
+            "incomePerQuarter": [
+                66,
+                93,
+                18,
+                30
+            ],
+            "costPerQuarter": [
+                97,
+                28,
+                79,
+                57
+            ],
+            "resultPerQuarter": [
+                -31,
+                65,
+                -61,
+                -27
+            ]
+        },
+        {
+            "nameOfState": "New York",
+            "incomePerQuarter": [
+                48,
+                95,
+                76,
+                97
+            ],
+            "costPerQuarter": [
+                68,
+                5,
+                97,
+                23
+            ],
+            "resultPerQuarter": [
+                -20,
+                90,
+                -21,
+                74
+            ]
+        },
+        {
+            "nameOfState": "North Carolina",
+            "incomePerQuarter": [
+                31,
+                71,
+                2,
+                71
+            ],
+            "costPerQuarter": [
+                93,
+                5,
+                81,
+                9
+            ],
+            "resultPerQuarter": [
+                -62,
+                66,
+                -79,
+                62
+            ]
+        },
+        {
+            "nameOfState": "North Dakota",
+            "incomePerQuarter": [
+                3,
+                90,
+                62,
+                26
+            ],
+            "costPerQuarter": [
+                70,
+                63,
+                82,
+                73
+            ],
+            "resultPerQuarter": [
+                -67,
+                27,
+                -20,
+                -47
+            ]
+        },
+        {
+            "nameOfState": "Ohio",
+            "incomePerQuarter": [
+                70,
+                50,
+                6,
+                63
+            ],
+            "costPerQuarter": [
+                21,
+                94,
+                4,
+                44
+            ],
+            "resultPerQuarter": [
+                49,
+                -44,
+                2,
+                19
+            ]
+        },
+        {
+            "nameOfState": "Oklahoma",
+            "incomePerQuarter": [
+                66,
+                46,
+                53,
+                23
+            ],
+            "costPerQuarter": [
+                26,
+                25,
+                35,
+                86
+            ],
+            "resultPerQuarter": [
+                40,
+                21,
+                18,
+                -63
+            ]
+        },
+        {
+            "nameOfState": "Oregon",
+            "incomePerQuarter": [
+                82,
+                31,
+                38,
+                14
+            ],
+            "costPerQuarter": [
+                91,
+                9,
+                80,
+                77
+            ],
+            "resultPerQuarter": [
+                -9,
+                22,
+                -42,
+                -63
+            ]
+        },
+        {
+            "nameOfState": "Pennsylvania",
+            "incomePerQuarter": [
+                33,
+                88,
+                82,
+                65
+            ],
+            "costPerQuarter": [
+                30,
+                29,
+                41,
+                29
+            ],
+            "resultPerQuarter": [
+                3,
+                59,
+                41,
+                36
+            ]
+        },
+        {
+            "nameOfState": "Rhode Island",
+            "incomePerQuarter": [
+                8,
+                86,
+                32,
+                38
+            ],
+            "costPerQuarter": [
+                88,
+                8,
+                18,
+                68
+            ],
+            "resultPerQuarter": [
+                -80,
+                78,
+                14,
+                -30
+            ]
+        },
+        {
+            "nameOfState": "South Carolina",
+            "incomePerQuarter": [
+                24,
+                18,
+                0,
+                49
+            ],
+            "costPerQuarter": [
+                72,
+                62,
+                21,
+                38
+            ],
+            "resultPerQuarter": [
+                -48,
+                -44,
+                -21,
+                11
+            ]
+        },
+        {
+            "nameOfState": "South Dakota",
+            "incomePerQuarter": [
+                73,
+                17,
+                64,
+                30
+            ],
+            "costPerQuarter": [
+                21,
+                91,
+                57,
+                52
+            ],
+            "resultPerQuarter": [
+                52,
+                -74,
+                7,
+                -22
+            ]
+        },
+        {
+            "nameOfState": "Tennessee",
+            "incomePerQuarter": [
+                92,
+                24,
+                25,
+                92
+            ],
+            "costPerQuarter": [
+                5,
+                18,
+                42,
+                66
+            ],
+            "resultPerQuarter": [
+                87,
+                6,
+                -17,
+                26
+            ]
+        },
+        {
+            "nameOfState": "Texas",
+            "incomePerQuarter": [
+                33,
+                80,
+                68,
+                30
+            ],
+            "costPerQuarter": [
+                86,
+                58,
+                36,
+                45
+            ],
+            "resultPerQuarter": [
+                -53,
+                22,
+                32,
+                -15
+            ]
+        },
+        {
+            "nameOfState": "Utah",
+            "incomePerQuarter": [
+                89,
+                98,
+                96,
+                79
+            ],
+            "costPerQuarter": [
+                35,
+                51,
+                88,
+                51
+            ],
+            "resultPerQuarter": [
+                54,
+                47,
+                8,
+                28
+            ]
+        },
+        {
+            "nameOfState": "Vermont",
+            "incomePerQuarter": [
+                4,
+                19,
+                56,
+                40
+            ],
+            "costPerQuarter": [
+                17,
+                66,
+                27,
+                42
+            ],
+            "resultPerQuarter": [
+                -13,
+                -47,
+                29,
+                -2
+            ]
+        },
+        {
+            "nameOfState": "Virginia",
+            "incomePerQuarter": [
+                24,
+                27,
+                41,
+                35
+            ],
+            "costPerQuarter": [
+                30,
+                2,
+                36,
+                3
+            ],
+            "resultPerQuarter": [
+                -6,
+                25,
+                5,
+                32
+            ]
+        },
+        {
+            "nameOfState": "Washington",
+            "incomePerQuarter": [
+                40,
+                11,
+                63,
+                51
+            ],
+            "costPerQuarter": [
+                46,
+                41,
+                94,
+                64
+            ],
+            "resultPerQuarter": [
+                -6,
+                -30,
+                -31,
+                -13
+            ]
+        },
+        {
+            "nameOfState": "West Virginia",
+            "incomePerQuarter": [
+                66,
+                56,
+                97,
+                29
+            ],
+            "costPerQuarter": [
+                65,
+                53,
+                37,
+                16
+            ],
+            "resultPerQuarter": [
+                1,
+                3,
+                60,
+                13
+            ]
+        },
+        {
+            "nameOfState": "Wisconsin",
+            "incomePerQuarter": [
+                24,
+                55,
+                21,
+                83
+            ],
+            "costPerQuarter": [
+                80,
+                64,
+                13,
+                67
+            ],
+            "resultPerQuarter": [
+                -56,
+                -9,
+                8,
+                16
+            ]
+        },
+        {
+            "nameOfState": "Wyoming",
+            "incomePerQuarter": [
+                52,
+                49,
+                97,
+                33
+            ],
+            "costPerQuarter": [
+                96,
+                50,
+                23,
+                82
+            ],
+            "resultPerQuarter": [
+                -44,
+                -1,
+                74,
+                -49
+            ]
+        }
+    ]
+}
